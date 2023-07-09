@@ -1,3 +1,3 @@
-<a href="movix-binge.netlify.app"><h1>Open Live Site</h1></a>
+<h1><a href="movix-binge.netlify.app">Open Live Site</a></h1>
 # movie-binge
 A fully responsive movies website.
